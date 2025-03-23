@@ -7,4 +7,4 @@
 - 🔭 Sophomore at Atal bihari Vajpayee Indian Institute of Information Technology and Management </br>
 - 🌱 Pursuing Bachalor of Technology in Computer Science and Engineering </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshitasure12)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshitasure12&theme=dark&show_icons=true)
