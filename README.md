@@ -1,4 +1,4 @@
-# 💫 Hi There!:
+# 💫 Hi There!
 Sophomore at Atal bihari Vajpayee Indian Institute of Information Technology and Management <br>Pursuing Bachalor of Technology in Computer Science and Engineering <br>I have a strong interest in Data Structures and Algorithms and Competitive Programming<br>Fun fact: I love singing and have been passionate about Carnatic music for over a decade!
 
 
